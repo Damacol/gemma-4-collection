@@ -21,3 +21,4 @@
 [Start Chatting Now](https://venice.ai/chat?ref=i4kyGp&utm_source=github&utm_medium=collection)
 
 *Part of the Damacol Network of 1,500+ AI Models.*
+[![Visits](https://komarev.com/ghpvc/?username=damacol&label=Visits&color=blue&style=flat-square)](https://github.com/Damacol/gemma-4-collection)
